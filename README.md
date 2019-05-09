@@ -5,7 +5,8 @@ Use this by your own caution! Here is my suggestion: Read the source code before
 ## Requirements
 
 1. Python 3
-2. nexmo (`pip install nexmo`)
+2. nexmo module for Python (`pip install nexmo`)
+3. Nexmo account and pay for the credits
 
 ## Steps
 
